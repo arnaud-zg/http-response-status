@@ -1,6 +1,16 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`NHttpStatuses should make a package of NHttpStatuses 1`] = `
+exports[`NHttpHeaders should make a snapshot of NHttpHeaders 1`] = `
+Object {
+  "EHttpHeaders": Object {
+    "ACCEPT": "Accept",
+    "APPLICATION_JSON": "application/json",
+    "CONTENT_TYPE": "Content-Type",
+  },
+}
+`;
+
+exports[`NHttpStatuses should make a snapshot of NHttpStatuses 1`] = `
 Object {
   "ClientError": Object {
     "400": "BAD_REQUEST",
