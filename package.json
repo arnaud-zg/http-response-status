@@ -8,10 +8,12 @@
     "dist"
   ],
   "scripts": {
-    "start": "tsdx watch",
     "build": "tsdx build",
-    "test": "tsdx test",
-    "release": "standard-version"
+    "release": "standard-version",
+    "start": "tsdx watch",
+    "test:coverage:report": "npm run test:coverage && cat ./coverage/lcov.info | codacy-coverage",
+    "test:coverage": "tsdx test --coverage",
+    "test": "tsdx test"
   },
   "peerDependencies": {},
   "husky": {
