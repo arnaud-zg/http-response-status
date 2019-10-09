@@ -1,5 +1,11 @@
 import { NHttpStatuses } from '../constants/http';
 
+const HTTP_STATUS_INFORMATIONAL = 'Informational';
+const HTTP_STATUS_SUCCESS = 'Success';
+const HTTP_STATUS_REDIRECTION = 'Redirection';
+const HTTP_STATUS_CLIENT_ERROR = 'ClientError';
+const HTTP_STATUS_SERVER_ERROR = 'ServerError';
+
 export type THttpStatusCodeCatagory = ReturnType<typeof getHttpStatusCatgory>;
 
 export type THttpStatusName = ReturnType<typeof getHttpStatusName>;
@@ -15,23 +21,23 @@ export const getHttpStatusCatgory = (httpStatusCode: number) => {
   if (
     Object.values(NHttpStatuses.EInformational).indexOf(httpStatusCode) !== -1
   ) {
-    return 'Informational';
+    return HTTP_STATUS_INFORMATIONAL;
   } else if (
     Object.values(NHttpStatuses.ESuccess).indexOf(httpStatusCode) !== -1
   ) {
-    return 'Success';
+    return HTTP_STATUS_SUCCESS;
   } else if (
     Object.values(NHttpStatuses.ERedirection).indexOf(httpStatusCode) !== -1
   ) {
-    return 'Redirection';
+    return HTTP_STATUS_REDIRECTION;
   } else if (
     Object.values(NHttpStatuses.ClientError).indexOf(httpStatusCode) !== -1
   ) {
-    return 'ClientError';
+    return HTTP_STATUS_CLIENT_ERROR;
   } else if (
     Object.values(NHttpStatuses.EServerError).indexOf(httpStatusCode) !== -1
   ) {
-    return 'ServerError';
+    return HTTP_STATUS_SERVER_ERROR;
   }
 
   return undefined;
