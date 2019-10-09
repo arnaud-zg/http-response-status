@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.6](https://github.com/arnaud-zg/http-status/compare/v0.0.5...v0.0.6) (2019-10-09)
+
+### 🔧 Chore
+
+- **deps:** update dependency codecov to v3.6.1 ([#19](https://github.com/arnaud-zg/http-status/issues/19)) ([961f475](https://github.com/arnaud-zg/http-status/commit/961f475))
+- **deps:** update dependency husky to v3.0.7 ([#20](https://github.com/arnaud-zg/http-status/issues/20)) ([71a0aaf](https://github.com/arnaud-zg/http-status/commit/71a0aaf))
+- **deps:** update dependency husky to v3.0.8 ([#22](https://github.com/arnaud-zg/http-status/issues/22)) ([45a2501](https://github.com/arnaud-zg/http-status/commit/45a2501))
+- **deps:** update dependency tsdx to v0.9.3 ([#21](https://github.com/arnaud-zg/http-status/issues/21)) ([498351b](https://github.com/arnaud-zg/http-status/commit/498351b))
+- **deps:** update dependency typescript to v3.6.4 ([#23](https://github.com/arnaud-zg/http-status/issues/23)) ([8833d10](https://github.com/arnaud-zg/http-status/commit/8833d10))
+
 ### [0.0.5](https://github.com/arnaud-zg/http-status/compare/v0.0.4...v0.0.5) (2019-09-20)
 
 ### 🔧 Chore
