@@ -1,12 +1,12 @@
 export namespace NHttpHeaders {
   export enum EHttpHeaders {
+    ACCEPT_RANGES = 'Accept-Ranges',
     ACCESS_CONTROL_ALLOW_CREDENTIALS = 'Access-Control-Allow-Credentials',
     ACCESS_CONTROL_ALLOW_HEADERS = 'Access-Control-Allow-Headers',
     ACCESS_CONTROL_ALLOW_METHODS = 'Access-Control-Allow-Methods',
     ACCESS_CONTROL_ALLOW_ORIGIN = 'Access-Control-Allow-Origin',
     ACCESS_CONTROL_EXPOSE_HEADERS = 'Access-Control-Expose-Headers',
     ACCESS_CONTROL_MAX_AGE = 'Access-Control-Max-Age',
-    ACCEPT_RANGES = 'Accept-Ranges',
     AGE = 'Age',
     ALLOW = 'Allow',
     ALTERNATE_PROTOCOL = 'Alternate-Protocol',
@@ -23,7 +23,6 @@ export namespace NHttpHeaders {
     CONTENT_MD5 = 'Content-MD5',
     CONTENT_RANGE = 'Content-Range',
     CONTENT_SECURITY_POLICY = 'X-Content-Security-Policy',
-    X_WEBKIT_CSP = 'Content-Security-Policy, X-Content-Security-Policy, X-Webkit-CSP',
     CONTENT_SECURITY_POLICY_REPORT_ONLY = 'Content-Security-Policy-Report-Only',
     CONTENT_TYPE = 'Content-Type',
     DATE = 'Date',
@@ -60,6 +59,7 @@ export namespace NHttpHeaders {
     X_POWERED_BY = 'X-Powered-By',
     X_ROBOTS_TAG = 'X-Robots-Tag',
     X_UA_COMPATIBLE = 'X-UA-Compatible',
+    X_WEBKIT_CSP = 'Content-Security-Policy, X-Content-Security-Policy, X-Webkit-CSP',
     X_XSS_PROTECTION = 'X-XSS-Protection',
   }
 }
