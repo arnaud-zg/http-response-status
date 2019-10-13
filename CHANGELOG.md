@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.7](https://github.com/arnaud-zg/http-status/compare/v0.0.6...v0.0.7) (2019-10-13)
+
+
+### 🔧 Chore
+
+* **deps:** update dependency husky to v3.0.9 ([#26](https://github.com/arnaud-zg/http-status/issues/26)) ([cc0f6e5](https://github.com/arnaud-zg/http-status/commit/cc0f6e5))
+* **deps:** update dependency pretty-quick to v2 ([#27](https://github.com/arnaud-zg/http-status/issues/27)) ([b2adc3b](https://github.com/arnaud-zg/http-status/commit/b2adc3b))
+* **http:** use constant for http status ([#24](https://github.com/arnaud-zg/http-status/issues/24)) ([fb8d897](https://github.com/arnaud-zg/http-status/commit/fb8d897))
+* **project:** remove pretty quick and add lint command ([#28](https://github.com/arnaud-zg/http-status/issues/28)) ([3956595](https://github.com/arnaud-zg/http-status/commit/3956595))
+* **project:** reorder variable position ([#25](https://github.com/arnaud-zg/http-status/issues/25)) ([70016a0](https://github.com/arnaud-zg/http-status/commit/70016a0))
+
 ### [0.0.6](https://github.com/arnaud-zg/http-status/compare/v0.0.5...v0.0.6) (2019-10-09)
 
 ### 🔧 Chore
