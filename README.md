@@ -26,7 +26,7 @@ yarn add --dev http-response-status
 
 ## Usage
 
-Here are example of how you can use `http-response-status`.
+Here are examples of how you can use `http-response-status`.
 
 ### Check if it's a 200 OK
 
