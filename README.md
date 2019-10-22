@@ -2,6 +2,10 @@
 
 HTTP Status Map in Typescript
 
+
+[![Build Status](https://travis-ci.org/arnaud-zg/http-response-status.svg?branch=master)](https://travis-ci.org/arnaud-zg/http-response-status)
+[![codecov](https://codecov.io/gh/arnaud-zg/http-response-status/branch/master/graph/badge.svg)](https://codecov.io/gh/arnaud-zg/http-response-status)
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
