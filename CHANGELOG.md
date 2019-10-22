@@ -2,6 +2,25 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.8](https://github.com/arnaud-zg/http-status/compare/v0.0.7...v0.0.8) (2019-10-22)
+
+
+### 📖 Documentations
+
+* **project:** update readme documentation ([#32](https://github.com/arnaud-zg/http-status/issues/32)) ([f3ff0fd](https://github.com/arnaud-zg/http-status/commit/f3ff0fd))
+
+
+### 🔧 Chore
+
+* **deps:** update dependency @types/jest to v24.0.19 ([#29](https://github.com/arnaud-zg/http-status/issues/29)) ([75c60d3](https://github.com/arnaud-zg/http-status/commit/75c60d3))
+* **deps:** update dependency tsdx to v0.10.0 ([#30](https://github.com/arnaud-zg/http-status/issues/30)) ([abba32a](https://github.com/arnaud-zg/http-status/commit/abba32a))
+* **deps:** update dependency tsdx to v0.10.5 ([#31](https://github.com/arnaud-zg/http-status/issues/31)) ([675327c](https://github.com/arnaud-zg/http-status/commit/675327c))
+
+
+### 🚇 Continuous Integration
+
+* **release:** add release script ([#33](https://github.com/arnaud-zg/http-status/issues/33)) ([7eb5d49](https://github.com/arnaud-zg/http-status/commit/7eb5d49))
+
 ### [0.0.7](https://github.com/arnaud-zg/http-status/compare/v0.0.6...v0.0.7) (2019-10-13)
 
 
