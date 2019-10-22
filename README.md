@@ -26,6 +26,50 @@ yarn add --dev http-response-status
 
 ## Usage
 
+Here are examples of how you can use `http-response-status`.
+
+### Check if it's a 200 OK
+
+```ts
+import { NHttpStatuses } from 'http-response-status'
+
+const isOk = (httpCode: number) => {
+  if (httpCode === NHttpStatuses.OK) {
+    return true
+  }
+
+  return false
+}
+```
+
+### Get http status name
+
+```ts
+import { getHttpStatusName } from 'http-response-status'
+
+const isOk = (httpCode: number) => {
+  if (getHttpStatusName(httpCode) === 'OK') {
+    return true
+  }
+
+  return false
+}
+```
+
+### Get http status category
+
+```ts
+import { getHttpStatusCatgory } from 'http-response-status'
+
+const isSuccess = (httpCode) => {
+  if (getHttpStatusCatgory(httpCode) === 'Success') {
+    return true
+  }
+
+  return false
+}
+```
+
 ## Running the tests
 
 Tests are written with jest
