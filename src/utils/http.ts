@@ -1,10 +1,10 @@
 import { NHttpStatuses } from '../constants/http';
 
-const HTTP_STATUS_CLIENT_ERROR = 'ClientError';
-const HTTP_STATUS_INFORMATIONAL = 'Informational';
-const HTTP_STATUS_REDIRECTION = 'Redirection';
-const HTTP_STATUS_SERVER_ERROR = 'ServerError';
-const HTTP_STATUS_SUCCESS = 'Success';
+export const HTTP_STATUS_CLIENT_ERROR = 'ClientError';
+export const HTTP_STATUS_INFORMATIONAL = 'Informational';
+export const HTTP_STATUS_REDIRECTION = 'Redirection';
+export const HTTP_STATUS_SERVER_ERROR = 'ServerError';
+export const HTTP_STATUS_SUCCESS = 'Success';
 
 export type THttpStatusCodeCatagory = ReturnType<typeof getHttpStatusCatgory>;
 
