@@ -210,7 +210,7 @@ Object {
       "RESET_CONTENT": 205,
     },
   },
-  "getHttpStatusCatgory": [Function],
+  "getHttpStatusCategory": [Function],
   "getHttpStatusName": [Function],
 }
 `;

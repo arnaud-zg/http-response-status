@@ -1,4 +1,4 @@
-import { getHttpStatusName, getHttpStatusCatgory } from '../../src/utils/http';
+import { getHttpStatusName, getHttpStatusCategory } from '../../src/utils/http';
 
 describe('getHttpStatusName', () => {
   it('should return nothing', () => {
@@ -74,9 +74,9 @@ describe('getHttpStatusName', () => {
   });
 });
 
-describe('getHttpStatusCatgory', () => {
+describe('getHttpStatusCategory', () => {
   it('should return nothing', () => {
-    expect(getHttpStatusCatgory(999)).toBeUndefined();
+    expect(getHttpStatusCategory(999)).toBeUndefined();
   });
 
   test.each`
@@ -147,7 +147,7 @@ describe('getHttpStatusCatgory', () => {
   `(
     'returns $expected when httpStatusCode is equal to $httpStatusCode',
     ({ httpStatusCode, expected }) => {
-      expect(getHttpStatusCatgory(httpStatusCode)).toEqual(expected);
+      expect(getHttpStatusCategory(httpStatusCode)).toEqual(expected);
     }
   );
 });

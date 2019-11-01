@@ -59,10 +59,10 @@ const isOk = (httpCode: number) => {
 ### Get http status category
 
 ```ts
-import { HTTP_STATUS_SUCCESS, getHttpStatusCatgory } from 'http-response-status'
+import { HTTP_STATUS_SUCCESS, getHttpStatusCategory } from 'http-response-status'
 
 const isSuccess = (httpCode) => {
-  if (getHttpStatusCatgory(httpCode) === HTTP_STATUS_SUCCESS) {
+  if (getHttpStatusCategory(httpCode) === HTTP_STATUS_SUCCESS) {
     return true
   }
 
