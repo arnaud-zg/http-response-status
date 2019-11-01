@@ -7,6 +7,12 @@
   "files": [
     "dist"
   ],
+  "keywords": [
+    "http",
+    "typescript",
+    "code",
+    "status"
+  ],
   "scripts": {
     "build": "tsdx build",
     "lint": "tsdx lint",
