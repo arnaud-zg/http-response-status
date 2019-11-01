@@ -97,7 +97,7 @@ describe('getHttpStatusName', () => {
         break;
       case HTTP_STATUS_CLIENT_ERROR:
         expect(getHttpStatusName(httpStatusCode)).toEqual(
-          NHttpStatuses.ClientError[httpStatusCode]
+          NHttpStatuses.EClientError[httpStatusCode]
         );
         break;
       case HTTP_STATUS_SERVER_ERROR:

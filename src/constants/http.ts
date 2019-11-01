@@ -95,7 +95,7 @@ export namespace NHttpStatuses {
     PERMANENT_REDIRECT = 308,
   }
 
-  export enum ClientError {
+  export enum EClientError {
     BAD_REQUEST = 400,
     UNAUTHORIZED = 401,
     PAYMENT_REQUIRED = 402,

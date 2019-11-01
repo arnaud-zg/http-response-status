@@ -70,7 +70,7 @@ Object {
 
 exports[`NHttpStatuses should make a snapshot of NHttpStatuses 1`] = `
 Object {
-  "ClientError": Object {
+  "EClientError": Object {
     "400": "BAD_REQUEST",
     "401": "UNAUTHORIZED",
     "402": "PAYMENT_REQUIRED",
