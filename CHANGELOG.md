@@ -2,6 +2,29 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.10](https://github.com/arnaud-zg/http-status/compare/v0.0.9...v0.0.10) (2019-11-01)
+
+
+### ⚠️ Tests
+
+* **unit:** use internal methods for unit tests instead of making snapshot ([#42](https://github.com/arnaud-zg/http-status/issues/42)) ([3bbbd60](https://github.com/arnaud-zg/http-status/commit/3bbbd60))
+
+
+### 🐛 Bug Fixes
+
+* **enum:** name enum with an e prefix ([#43](https://github.com/arnaud-zg/http-status/issues/43)) ([04b9e39](https://github.com/arnaud-zg/http-status/commit/04b9e39))
+* **method:** typo on method getHttpStatusCategory ([#41](https://github.com/arnaud-zg/http-status/issues/41)) ([ccf7d65](https://github.com/arnaud-zg/http-status/commit/ccf7d65))
+
+
+### 📖 Documentations
+
+* **project:** add project keywords ([#40](https://github.com/arnaud-zg/http-status/issues/40)) ([549f05f](https://github.com/arnaud-zg/http-status/commit/549f05f))
+
+
+### 🔧 Chore
+
+* **deps:** update dependency @types/jest to v24.0.21 ([#39](https://github.com/arnaud-zg/http-status/issues/39)) ([2286718](https://github.com/arnaud-zg/http-status/commit/2286718))
+
 ### [0.0.9](https://github.com/arnaud-zg/http-status/compare/v0.0.8...v0.0.9) (2019-10-31)
 
 
