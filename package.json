@@ -1,12 +1,17 @@
 {
   "name": "http-response-status",
   "version": "0.0.10",
+  "description": "HTTP Status Map",
   "main": "dist/index.js",
   "module": "dist/http-status.esm.js",
   "typings": "dist/index.d.ts",
   "repository": {
     "type": "git",
     "url": "https://github.com/arnaud-zg/http-response-status.git"
+  },
+  "homepage": "https://github.com/arnaud-zg/http-response-status",
+  "bugs": {
+    "url": "https://github.com/arnaud-zg/http-response-status/issues"
   },
   "files": [
     "dist"
