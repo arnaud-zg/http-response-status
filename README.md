@@ -1,6 +1,6 @@
 # http-response-status
 
-HTTP Status Map in Typescript
+HTTP Status Map
 
 
 [![Build Status](https://travis-ci.org/arnaud-zg/http-response-status.svg?branch=master)](https://travis-ci.org/arnaud-zg/http-response-status)
