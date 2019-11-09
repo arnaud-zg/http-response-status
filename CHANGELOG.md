@@ -2,6 +2,21 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.11](https://github.com/arnaud-zg/http-response-status/compare/v0.0.10...v0.0.11) (2019-11-09)
+
+
+### 🐛 Bug Fixes
+
+* **project:** add repository url ([#44](https://github.com/arnaud-zg/http-response-status/issues/44)) ([30eced0](https://github.com/arnaud-zg/http-response-status/commit/30eced0))
+* **project:** update package.json ([#47](https://github.com/arnaud-zg/http-response-status/issues/47)) ([c734879](https://github.com/arnaud-zg/http-response-status/commit/c734879))
+
+
+### 🔧 Chore
+
+* **deps:** update dependency @types/jest to v24.0.22 ([#46](https://github.com/arnaud-zg/http-response-status/issues/46)) ([dcda0c6](https://github.com/arnaud-zg/http-response-status/commit/dcda0c6))
+* **deps:** update dependency prettier to v1.19.0 ([#48](https://github.com/arnaud-zg/http-response-status/issues/48)) ([f3d8a84](https://github.com/arnaud-zg/http-response-status/commit/f3d8a84))
+* **deps:** update dependency typescript to v3.7.2 ([#45](https://github.com/arnaud-zg/http-response-status/issues/45)) ([415e34b](https://github.com/arnaud-zg/http-response-status/commit/415e34b))
+
 ### [0.0.10](https://github.com/arnaud-zg/http-status/compare/v0.0.9...v0.0.10) (2019-11-01)
 
 
