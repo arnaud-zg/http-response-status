@@ -2,6 +2,8 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.1.0](https://github.com/arnaud-zg/http-response-status/compare/v0.0.12...v0.1.0) (2019-11-27)
+
 ### [0.0.12](https://github.com/arnaud-zg/http-response-status/compare/v0.0.11...v0.0.12) (2019-11-27)
 
 
