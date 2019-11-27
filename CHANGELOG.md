@@ -2,6 +2,21 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.12](https://github.com/arnaud-zg/http-response-status/compare/v0.0.11...v0.0.12) (2019-11-27)
+
+
+### 🐛 Bug Fixes
+
+* **deps:** remove prettier from dependencies ([f834a4b](https://github.com/arnaud-zg/http-response-status/commit/f834a4bce61dfb51a67535e8aa17a5e2b1164be6))
+
+
+### 🔧 Chore
+
+* **deps:** update dependency @types/jest to v24.0.23 ([#50](https://github.com/arnaud-zg/http-response-status/issues/50)) ([9c8d3b4](https://github.com/arnaud-zg/http-response-status/commit/9c8d3b4f9e1c8ad73c66a94622c65fc455c6da85))
+* **deps:** update dependency husky to v3.1.0 ([#51](https://github.com/arnaud-zg/http-response-status/issues/51)) ([430c167](https://github.com/arnaud-zg/http-response-status/commit/430c1679a0f16956a5bf3a863e17eb3edb404088))
+* **deps:** update dependency prettier to v1.19.1 ([#49](https://github.com/arnaud-zg/http-response-status/issues/49)) ([0961578](https://github.com/arnaud-zg/http-response-status/commit/09615782ca21cbc25dc6ed68e9ee5d07a5b3e059))
+* **deps:** update dependency standard-version to v7.0.1 ([#52](https://github.com/arnaud-zg/http-response-status/issues/52)) ([2e85118](https://github.com/arnaud-zg/http-response-status/commit/2e851180337712d08f7adc8031ff13d252a26a0c))
+
 ### [0.0.11](https://github.com/arnaud-zg/http-response-status/compare/v0.0.10...v0.0.11) (2019-11-09)
 
 
