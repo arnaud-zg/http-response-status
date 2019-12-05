@@ -15,13 +15,13 @@ These instructions will get you a copy of the project up and running on your loc
 Using npm:
 
 ```
-npm i --save http-response-status
+npm i http-response-status
 ```
 
 Using yarn:
 
 ```
-yarn add --dev http-response-status
+yarn add http-response-status
 ```
 
 ## Usage
