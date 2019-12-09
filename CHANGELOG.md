@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.2](https://github.com/arnaud-zg/http-response-status/compare/v0.1.1...v0.1.2) (2019-12-09)
+
+
+### 📦 Build System
+
+* use fixed version of serialize-javascript ([#55](https://github.com/arnaud-zg/http-response-status/issues/55)) ([e872265](https://github.com/arnaud-zg/http-response-status/commit/e8722659fb70be475085bfef7a23144ca9850396))
+
 ### [0.1.1](https://github.com/arnaud-zg/http-response-status/compare/v0.1.0...v0.1.1) (2019-12-05)
 
 
