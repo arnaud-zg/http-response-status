@@ -10,8 +10,9 @@ install:
   - yarn install --check-files
 
 script:
-  - yarn run build
+  - yarn run lint
   - yarn run test:coverage:report
+  - yarn run build
 
 before_deploy:
   - if [ ! -d dist ]; then yarn run build ; fi
