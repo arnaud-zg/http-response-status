@@ -2,6 +2,21 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.3](https://github.com/arnaud-zg/http-response-status/compare/v0.1.2...v0.1.3) (2019-12-20)
+
+
+### 🔧 Chore
+
+* **deps:** update dependency @types/jest to v24.0.24 ([#58](https://github.com/arnaud-zg/http-response-status/issues/58)) ([9231129](https://github.com/arnaud-zg/http-response-status/commit/9231129d930bf8e6cb189e462e874d02fa32bb32))
+* **deps:** update dependency tsdx to v0.12.0 ([#59](https://github.com/arnaud-zg/http-response-status/issues/59)) ([5335efe](https://github.com/arnaud-zg/http-response-status/commit/5335efe0439f978a241ef69c99b60c1c59e5190a))
+* **deps:** update dependency typescript to v3.7.4 ([#60](https://github.com/arnaud-zg/http-response-status/issues/60)) ([1c496bd](https://github.com/arnaud-zg/http-response-status/commit/1c496bd85d5683e4fe0dabc750215147a4e599dd))
+* **deps:** update node.js to v10.18.0 ([#56](https://github.com/arnaud-zg/http-response-status/issues/56)) ([6071100](https://github.com/arnaud-zg/http-response-status/commit/60711002a6218be4207d266d138d6df1d43f0d16))
+
+
+### 📦 Build System
+
+* run linter check on ci ([#57](https://github.com/arnaud-zg/http-response-status/issues/57)) ([44a655e](https://github.com/arnaud-zg/http-response-status/commit/44a655e453f71acf372af5f1727a4667f58589d1))
+
 ### [0.1.2](https://github.com/arnaud-zg/http-response-status/compare/v0.1.1...v0.1.2) (2019-12-09)
 
 
