@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.4](https://github.com/arnaud-zg/http-response-status/compare/v0.1.3...v0.1.4) (2020-01-09)
+
+
+### 🔧 Chore
+
+* **deps:** update dependency @types/jest to v24.0.25 ([#61](https://github.com/arnaud-zg/http-response-status/issues/61)) ([78789df](https://github.com/arnaud-zg/http-response-status/commit/78789df23fb5e7ec8ebe6aed30d2a112bae880b1))
+* **deps:** update dependency husky to v4 ([#63](https://github.com/arnaud-zg/http-response-status/issues/63)) ([0b58de0](https://github.com/arnaud-zg/http-response-status/commit/0b58de04cfa2723989ae60684b049c3d02833efb))
+* **deps:** update dependency husky to v4.0.1 ([#64](https://github.com/arnaud-zg/http-response-status/issues/64)) ([d9c6cdf](https://github.com/arnaud-zg/http-response-status/commit/d9c6cdf879db727b53332cae07f14a4addbc7e06))
+* **deps:** update dependency husky to v4.0.3 ([#65](https://github.com/arnaud-zg/http-response-status/issues/65)) ([693ad54](https://github.com/arnaud-zg/http-response-status/commit/693ad549b1991a26d7804d37e2cf04723ceac85d))
+* **deps:** update dependency husky to v4.0.4 ([#66](https://github.com/arnaud-zg/http-response-status/issues/66)) ([2d2436a](https://github.com/arnaud-zg/http-response-status/commit/2d2436aeb2d8d7c482543ccfb234c70d3173b4ca))
+* **deps:** update dependency tsdx to v0.12.1 ([#62](https://github.com/arnaud-zg/http-response-status/issues/62)) ([8636ee0](https://github.com/arnaud-zg/http-response-status/commit/8636ee00e17913f51b8d0d45782835aa3066aa3a))
+
 ### [0.1.3](https://github.com/arnaud-zg/http-response-status/compare/v0.1.2...v0.1.3) (2019-12-20)
 
 
