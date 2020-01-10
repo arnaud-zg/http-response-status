@@ -2929,9 +2929,9 @@ humanize-duration@^3.15.3:
   version "3.20.1"
   resolved "https://registry.yarnpkg.com/humanize-duration/-/humanize-duration-3.20.1.tgz#e5edf1edcd32ac1e97e71e0e97f02533f664dc45"
 
-husky@4.0.4:
-  version "4.0.4"
-  resolved "https://registry.yarnpkg.com/husky/-/husky-4.0.4.tgz#f4aaee536c5bd0e4618451d0615f46b43a94816c"
+husky@4.0.6:
+  version "4.0.6"
+  resolved "https://registry.yarnpkg.com/husky/-/husky-4.0.6.tgz#b64206220ab940f091cb5f1c75672453eb39fc9f"
   dependencies:
     chalk "^3.0.0"
     ci-info "^2.0.0"
