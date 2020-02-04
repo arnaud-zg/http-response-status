@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.0.4](https://github.com/arnaud-zg/http-response-status/compare/v1.0.3...v1.0.4) (2020-02-04)
+
+
+### 🔧 Chore
+
+* **deps:** update dependency @types/jest to v25.1.1 ([#84](https://github.com/arnaud-zg/http-response-status/issues/84)) ([55c6ddc](https://github.com/arnaud-zg/http-response-status/commit/55c6ddca851978bcd9c1e61250e55d4b909c5824))
+* **deps:** update dependency codecov to v3.6.3 ([#85](https://github.com/arnaud-zg/http-response-status/issues/85)) ([0d8c6a6](https://github.com/arnaud-zg/http-response-status/commit/0d8c6a6e4555b6b845557762e57cd1214d3de9d0))
+* **deps:** update dependency codecov to v3.6.4 ([#86](https://github.com/arnaud-zg/http-response-status/issues/86)) ([09f703c](https://github.com/arnaud-zg/http-response-status/commit/09f703c85f1b8e700d1142694d6599c8967323d2))
+
 ### [1.0.3](https://github.com/arnaud-zg/http-response-status/compare/v1.0.2...v1.0.3) (2020-01-27)
 
 
