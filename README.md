@@ -61,7 +61,7 @@ const isOk = (httpCode: number) => {
 ```ts
 import { HTTP_STATUS_SUCCESS, getHttpStatusCategory } from 'http-response-status'
 
-const isSuccess = (httpCode) => {
+const isSuccess = (httpCode: number) => {
   if (getHttpStatusCategory(httpCode) === HTTP_STATUS_SUCCESS) {
     return true
   }
