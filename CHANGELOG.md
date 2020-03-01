@@ -2,6 +2,24 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.0.7](https://github.com/arnaud-zg/http-response-status/compare/v1.0.6...v1.0.7) (2020-03-01)
+
+
+### 🐛 Bug Fixes
+
+* **constants:** change value of http status client error ([#98](https://github.com/arnaud-zg/http-response-status/issues/98)) ([040cdee](https://github.com/arnaud-zg/http-response-status/commit/040cdeeeb9441912028cc30c63f7b49e65ba03aa))
+
+
+### 🔧 Chore
+
+* **deps:** update dependency tslib to v1.11.1 ([#95](https://github.com/arnaud-zg/http-response-status/issues/95)) ([f045981](https://github.com/arnaud-zg/http-response-status/commit/f045981a12c652d82a1c52c68ef4a1f97232a514))
+* **deps:** update dependency typescript to v3.8.3 ([#97](https://github.com/arnaud-zg/http-response-status/issues/97)) ([c44c011](https://github.com/arnaud-zg/http-response-status/commit/c44c0118103c4bfb316c58f64b88b7967b86b4f9))
+
+
+### 📖 Documentations
+
+* add type of httpCode ([#96](https://github.com/arnaud-zg/http-response-status/issues/96)) ([e854cd3](https://github.com/arnaud-zg/http-response-status/commit/e854cd351551df0122afc3102459dd25f8f08985))
+
 ### [1.0.6](https://github.com/arnaud-zg/http-response-status/compare/v1.0.5...v1.0.6) (2020-02-21)
 
 
