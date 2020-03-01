@@ -1,6 +1,6 @@
 import { NHttpStatuses } from '../constants/http';
 
-export const HTTP_STATUS_CLIENT_ERROR = 'EClientError';
+export const HTTP_STATUS_CLIENT_ERROR = 'ClientError';
 export const HTTP_STATUS_INFORMATIONAL = 'Informational';
 export const HTTP_STATUS_REDIRECTION = 'Redirection';
 export const HTTP_STATUS_SERVER_ERROR = 'ServerError';
