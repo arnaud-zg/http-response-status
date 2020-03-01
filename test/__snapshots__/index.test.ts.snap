@@ -2,7 +2,7 @@
 
 exports[`httpStatus should make a package snapshot 1`] = `
 Object {
-  "HTTP_STATUS_CLIENT_ERROR": "EClientError",
+  "HTTP_STATUS_CLIENT_ERROR": "ClientError",
   "HTTP_STATUS_INFORMATIONAL": "Informational",
   "HTTP_STATUS_REDIRECTION": "Redirection",
   "HTTP_STATUS_SERVER_ERROR": "ServerError",
