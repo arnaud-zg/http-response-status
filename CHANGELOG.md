@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.0.8](https://github.com/arnaud-zg/http-response-status/compare/v1.0.7...v1.0.8) (2020-03-15)
+
+
+### 📦 Build System
+
+* **deps:** bump acorn from 5.7.3 to 5.7.4 ([#100](https://github.com/arnaud-zg/http-response-status/issues/100)) ([9db6bfa](https://github.com/arnaud-zg/http-response-status/commit/9db6bfa99af4de26f5d40ccf5f9ce4f38f942aab))
+
+
+### 🔧 Chore
+
+* **deps:** update dependency @types/jest to v25.1.4 ([#99](https://github.com/arnaud-zg/http-response-status/issues/99)) ([040ff6b](https://github.com/arnaud-zg/http-response-status/commit/040ff6b3aba721f2617bde4a23c39034f78fa9f8))
+
 ### [1.0.7](https://github.com/arnaud-zg/http-response-status/compare/v1.0.6...v1.0.7) (2020-03-01)
 
 
