@@ -24,7 +24,7 @@
   ],
   "scripts": {
     "build": "tsdx build",
-    "lint": "tsdx lint",
+    "lint": "tsdx lint src test",
     "release": "standard-version",
     "start": "tsdx watch",
     "test:coverage:report": "npm run test:coverage && codecov -f coverage/*.json",
@@ -34,7 +34,7 @@
   "peerDependencies": {},
   "husky": {
     "hooks": {
-      "pre-commit": "tsdx lint"
+      "pre-commit": "tsdx lint src test"
     }
   },
   "prettier": {
