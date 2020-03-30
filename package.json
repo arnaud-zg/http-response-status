@@ -5,6 +5,9 @@
   "main": "dist/index.js",
   "module": "dist/http-status.esm.js",
   "typings": "dist/index.d.ts",
+  "engines": {
+    "node": ">=10"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/arnaud-zg/http-response-status.git"
