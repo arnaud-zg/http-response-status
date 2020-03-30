@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.0.9](https://github.com/arnaud-zg/http-response-status/compare/v1.0.8...v1.0.9) (2020-03-30)
+
+
+### 🐛 Bug Fixes
+
+* migrate to tsdx@0.13.x ([6d1cfb5](https://github.com/arnaud-zg/http-response-status/commit/6d1cfb539205074ae59d6a769cb9316bfbadd94e))
+
+
+### 🔧 Chore
+
+* **deps:** update dependency tsdx to v0.13.1 ([#101](https://github.com/arnaud-zg/http-response-status/issues/101)) ([c821106](https://github.com/arnaud-zg/http-response-status/commit/c82110695077813f7394989be4400e1f35235c07))
+
 ### [1.0.8](https://github.com/arnaud-zg/http-response-status/compare/v1.0.7...v1.0.8) (2020-03-15)
 
 
