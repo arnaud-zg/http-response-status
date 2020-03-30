@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.0.10](https://github.com/arnaud-zg/http-response-status/compare/v1.0.9...v1.0.10) (2020-03-30)
+
+
+### 🐛 Bug Fixes
+
+* add engines nodes ([2430ca5](https://github.com/arnaud-zg/http-response-status/commit/2430ca52737e3c1d1e28d44f9103e2e2fdec3f31))
+
 ### [1.0.9](https://github.com/arnaud-zg/http-response-status/compare/v1.0.8...v1.0.9) (2020-03-30)
 
 
