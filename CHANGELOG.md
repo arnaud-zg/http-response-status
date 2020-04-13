@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.0.12](https://github.com/arnaud-zg/http-response-status/compare/v1.0.11...v1.0.12) (2020-04-13)
+
+
+### 🔧 Chore
+
+* **deps:** update dependency husky to v4.2.5 ([#106](https://github.com/arnaud-zg/http-response-status/issues/106)) ([f7237a1](https://github.com/arnaud-zg/http-response-status/commit/f7237a1a1630ef05fe020e38d6004a196ef87cc0))
+* **deps:** update dependency tsdx to v0.13.2 ([#107](https://github.com/arnaud-zg/http-response-status/issues/107)) ([9518ea0](https://github.com/arnaud-zg/http-response-status/commit/9518ea0824ca16e274b2cf0d0c9ae485cb96dfec))
+* **deps:** update node.js to v10.20.1 ([#105](https://github.com/arnaud-zg/http-response-status/issues/105)) ([093d0d2](https://github.com/arnaud-zg/http-response-status/commit/093d0d2f2c1424a770ab4ee1478878fca955e9a0))
+
 ### [1.0.11](https://github.com/arnaud-zg/http-response-status/compare/v1.0.10...v1.0.11) (2020-04-07)
 
 
