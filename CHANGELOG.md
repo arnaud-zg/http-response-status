@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.0.14](https://github.com/arnaud-zg/http-response-status/compare/v1.0.13...v1.0.14) (2020-05-16)
+
+
+### 🔧 Chore
+
+* **deps:** update dependency tslib to v2 ([#114](https://github.com/arnaud-zg/http-response-status/issues/114)) ([36dacd9](https://github.com/arnaud-zg/http-response-status/commit/36dacd9c2dcae6ef7f303652e1d0d3d263c05da2))
+* **deps:** update dependency tslib to v2 ([#114](https://github.com/arnaud-zg/http-response-status/issues/114)) ([96ff5aa](https://github.com/arnaud-zg/http-response-status/commit/96ff5aaf5fa376d53c4add720843bad4f43a3539))
+
 ### [1.0.13](https://github.com/arnaud-zg/http-response-status/compare/v1.0.12...v1.0.13) (2020-05-16)
 
 
