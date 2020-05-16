@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.0.13](https://github.com/arnaud-zg/http-response-status/compare/v1.0.12...v1.0.13) (2020-05-16)
+
+
+### 🔧 Chore
+
+* **deps:** update dependency @types/jest to v25.2.2 ([#112](https://github.com/arnaud-zg/http-response-status/issues/112)) ([3f509dd](https://github.com/arnaud-zg/http-response-status/commit/3f509dd56ecbec0b6d148ddfe7f1ae362cdaea6f))
+* **deps:** update dependency standard-version to v8 ([#109](https://github.com/arnaud-zg/http-response-status/issues/109)) ([e9e10dd](https://github.com/arnaud-zg/http-response-status/commit/e9e10dd44d287c6da8290303db11bf3a0a79afbc))
+* **deps:** update dependency tslib to v1.11.2 ([#108](https://github.com/arnaud-zg/http-response-status/issues/108)) ([12d6922](https://github.com/arnaud-zg/http-response-status/commit/12d6922df9dedb1d16e7091f4f59da9852f139fa))
+* **deps:** update dependency tslib to v1.12.0 ([#110](https://github.com/arnaud-zg/http-response-status/issues/110)) ([3a9ac2d](https://github.com/arnaud-zg/http-response-status/commit/3a9ac2dfeabbc6faaf69e86b1d7ea580ade93194))
+* **deps:** update dependency tslib to v1.13.0 ([#113](https://github.com/arnaud-zg/http-response-status/issues/113)) ([ae7ce37](https://github.com/arnaud-zg/http-response-status/commit/ae7ce37e997f06f32869c93f1663a643613fcb0b))
+* **deps:** update dependency typescript to v3.9.2 ([#111](https://github.com/arnaud-zg/http-response-status/issues/111)) ([43c972b](https://github.com/arnaud-zg/http-response-status/commit/43c972b67d4198fdd2c941e36331a8fef8831bda))
+
 ### [1.0.12](https://github.com/arnaud-zg/http-response-status/compare/v1.0.11...v1.0.12) (2020-04-13)
 
 
