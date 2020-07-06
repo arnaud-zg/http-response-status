@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.0.17](https://github.com/arnaud-zg/http-response-status/compare/v1.0.16...v1.0.17) (2020-07-06)
+
+
+### 🔧 Chore
+
+* **deps:** update dependency @types/jest to v26.0.1 ([#121](https://github.com/arnaud-zg/http-response-status/issues/121)) ([5be2618](https://github.com/arnaud-zg/http-response-status/commit/5be261830b4fa07c831f871c5c3e9f7fbc41aeb2))
+* **deps:** update dependency @types/jest to v26.0.2 ([#122](https://github.com/arnaud-zg/http-response-status/issues/122)) ([25756a5](https://github.com/arnaud-zg/http-response-status/commit/25756a50e31dc18a744c419208c41b7cb49c06eb))
+* **deps:** update dependency @types/jest to v26.0.3 ([#123](https://github.com/arnaud-zg/http-response-status/issues/123)) ([d18292a](https://github.com/arnaud-zg/http-response-status/commit/d18292ac4755dc3161da43fce6dca74a27fc5492))
+* **deps:** update dependency @types/jest to v26.0.4 ([#125](https://github.com/arnaud-zg/http-response-status/issues/125)) ([dd149b0](https://github.com/arnaud-zg/http-response-status/commit/dd149b07ea25c50dd96805059ab2087b1b268208))
+* **deps:** update dependency typescript to v3.9.6 ([#124](https://github.com/arnaud-zg/http-response-status/issues/124)) ([46ab652](https://github.com/arnaud-zg/http-response-status/commit/46ab6520ce017b2aa7c87158f2cb935b566dedfc))
+
 ### [1.0.16](https://github.com/arnaud-zg/http-response-status/compare/v1.0.15...v1.0.16) (2020-06-11)
 
 
