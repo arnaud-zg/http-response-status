@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.0.20](https://github.com/arnaud-zg/http-response-status/compare/v1.0.19...v1.0.20) (2020-08-20)
+
+
+### 🔧 Chore
+
+* **deps:** update dependency typescript to v4 ([#143](https://github.com/arnaud-zg/http-response-status/issues/143)) ([88cd7f1](https://github.com/arnaud-zg/http-response-status/commit/88cd7f1266239a04ce898181de3894432fd84958))
+
 ### [1.0.19](https://github.com/arnaud-zg/http-response-status/compare/v1.0.18...v1.0.19) (2020-08-15)
 
 
