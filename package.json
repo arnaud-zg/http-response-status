@@ -47,7 +47,7 @@
     "trailingComma": "es5"
   },
   "devDependencies": {
-    "@types/jest": "26.0.12",
+    "@types/jest": "26.0.13",
     "codecov": "3.7.2",
     "husky": "4.2.5",
     "standard-version": "9.0.0",
