@@ -2,6 +2,27 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.0.21](https://github.com/arnaud-zg/http-response-status/compare/v1.0.20...v1.0.21) (2020-10-28)
+
+
+### 🔧 Chore
+
+* **deps:** update dependency @types/jest to v26.0.12 ([#145](https://github.com/arnaud-zg/http-response-status/issues/145)) ([ecce2cb](https://github.com/arnaud-zg/http-response-status/commit/ecce2cbf88134a367c93256bf2d82217d8b0ae4e))
+* **deps:** update dependency @types/jest to v26.0.13 ([#146](https://github.com/arnaud-zg/http-response-status/issues/146)) ([19cc79c](https://github.com/arnaud-zg/http-response-status/commit/19cc79c57d3089c4d90126ee2679366a55aec789))
+* **deps:** update dependency @types/jest to v26.0.14 ([#150](https://github.com/arnaud-zg/http-response-status/issues/150)) ([aacecd1](https://github.com/arnaud-zg/http-response-status/commit/aacecd190d0ff4acf808940eb9ab5bc0cbbf3cb9))
+* **deps:** update dependency @types/jest to v26.0.15 ([#158](https://github.com/arnaud-zg/http-response-status/issues/158)) ([fb4642a](https://github.com/arnaud-zg/http-response-status/commit/fb4642a0b31fae0492eb59a4fbc8d9af0fb1f305))
+* **deps:** update dependency codecov to v3.8.0 ([#153](https://github.com/arnaud-zg/http-response-status/issues/153)) ([d7fa9cb](https://github.com/arnaud-zg/http-response-status/commit/d7fa9cbb710d60fb1507f918d15fe8cbaf96f069))
+* **deps:** update dependency husky to v4.3.0 ([#147](https://github.com/arnaud-zg/http-response-status/issues/147)) ([30f2138](https://github.com/arnaud-zg/http-response-status/commit/30f2138f2c4e6b056eb55f9d5089661b9d9fc9e9))
+* **deps:** update dependency tsdx to v0.13.3 ([#144](https://github.com/arnaud-zg/http-response-status/issues/144)) ([088a1ad](https://github.com/arnaud-zg/http-response-status/commit/088a1adf5130d3c54289ce70834f92e30f1da057))
+* **deps:** update dependency tsdx to v0.14.0 ([#152](https://github.com/arnaud-zg/http-response-status/issues/152)) ([8633ade](https://github.com/arnaud-zg/http-response-status/commit/8633ade52295f6fe1dbecc2eb58c54480d569197))
+* **deps:** update dependency tsdx to v0.14.1 ([#157](https://github.com/arnaud-zg/http-response-status/issues/157)) ([37985ae](https://github.com/arnaud-zg/http-response-status/commit/37985aef581c8319aa32a820e9ac2e8d69cb8bdd))
+* **deps:** update dependency tslib to v2.0.2 ([#155](https://github.com/arnaud-zg/http-response-status/issues/155)) ([145b105](https://github.com/arnaud-zg/http-response-status/commit/145b10523916e63ee9b81dae6c44ba971f2e8f6c))
+* **deps:** update dependency tslib to v2.0.3 ([#156](https://github.com/arnaud-zg/http-response-status/issues/156)) ([ab02de3](https://github.com/arnaud-zg/http-response-status/commit/ab02de3e42e5633f8ce35907d2692666b32d36d7))
+* **deps:** update dependency typescript to v4.0.3 ([#151](https://github.com/arnaud-zg/http-response-status/issues/151)) ([cd70bee](https://github.com/arnaud-zg/http-response-status/commit/cd70beedb8e69ff95de1148590c1236ebfa8ab4f))
+* **deps:** update dependency typescript to v4.0.5 ([#159](https://github.com/arnaud-zg/http-response-status/issues/159)) ([283ae65](https://github.com/arnaud-zg/http-response-status/commit/283ae65247d02a9c368f1082544f589521276286))
+* **deps:** update node.js to v10.22.1 ([#149](https://github.com/arnaud-zg/http-response-status/issues/149)) ([c0607a8](https://github.com/arnaud-zg/http-response-status/commit/c0607a83e3cf269f4aa1b5fd9ee8fe068eaed1c9))
+* **deps:** update node.js to v10.23.0 ([#160](https://github.com/arnaud-zg/http-response-status/issues/160)) ([b94149a](https://github.com/arnaud-zg/http-response-status/commit/b94149ab5014a1be60192b55c2d070839264184a))
+
 ### [1.0.20](https://github.com/arnaud-zg/http-response-status/compare/v1.0.19...v1.0.20) (2020-08-20)
 
 
