@@ -48,7 +48,7 @@
   },
   "devDependencies": {
     "@types/jest": "26.0.15",
-    "codecov": "3.8.0",
+    "codecov": "3.8.1",
     "husky": "4.3.0",
     "standard-version": "9.0.0",
     "tsdx": "0.14.1",
