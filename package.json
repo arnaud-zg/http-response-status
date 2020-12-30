@@ -50,7 +50,7 @@
     "@types/jest": "26.0.19",
     "codecov": "3.8.1",
     "husky": "4.3.6",
-    "standard-version": "9.0.0",
+    "standard-version": "9.1.0",
     "tsdx": "0.14.1",
     "tslib": "2.0.3",
     "typescript": "4.1.3"
