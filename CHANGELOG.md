@@ -2,6 +2,25 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.0.24](https://github.com/arnaud-zg/http-response-status/compare/v1.0.23...v1.0.24) (2021-05-10)
+
+
+### 📦 Build System
+
+* **deps:** bump handlebars from 4.7.6 to 4.7.7 ([#204](https://github.com/arnaud-zg/http-response-status/issues/204)) ([246590c](https://github.com/arnaud-zg/http-response-status/commit/246590c03f2c2ffb3bfe9473da39bc8873512792))
+* **deps:** bump hosted-git-info from 2.8.4 to 2.8.9 ([#205](https://github.com/arnaud-zg/http-response-status/issues/205)) ([db02983](https://github.com/arnaud-zg/http-response-status/commit/db02983009dd29674d48f3352cf63f02f0c888ed))
+* **deps:** bump lodash from 4.17.19 to 4.17.21 ([#206](https://github.com/arnaud-zg/http-response-status/issues/206)) ([abcb1af](https://github.com/arnaud-zg/http-response-status/commit/abcb1afc6b2ea0053f897832bcdd4271a80627e6))
+
+
+### 🔧 Chore
+
+* **deps:** update dependency @types/jest to v26.0.23 ([#201](https://github.com/arnaud-zg/http-response-status/issues/201)) ([89a9aa7](https://github.com/arnaud-zg/http-response-status/commit/89a9aa7e0a7f500401a834cd7dcdf765575fc2d9))
+* **deps:** update dependency codecov to v3.8.2 ([#202](https://github.com/arnaud-zg/http-response-status/issues/202)) ([462e586](https://github.com/arnaud-zg/http-response-status/commit/462e5865036f29aaae1379ff1f510f73088f0fc3))
+* **deps:** update dependency standard-version to v9.2.0 ([#198](https://github.com/arnaud-zg/http-response-status/issues/198)) ([cbdc9ef](https://github.com/arnaud-zg/http-response-status/commit/cbdc9ef03daafd29f24dd17861669a78d812fe39))
+* **deps:** update dependency standard-version to v9.3.0 ([#203](https://github.com/arnaud-zg/http-response-status/issues/203)) ([f013565](https://github.com/arnaud-zg/http-response-status/commit/f01356531fa4ae06e8fa7acbfecd8e1bc67290ff))
+* **deps:** update dependency typescript to v4.2.4 ([#200](https://github.com/arnaud-zg/http-response-status/issues/200)) ([ee24e3e](https://github.com/arnaud-zg/http-response-status/commit/ee24e3eee88ae7e1a0f312ab51be327ddb6eb2dc))
+* **deps:** update node.js to v14.16.1 ([#199](https://github.com/arnaud-zg/http-response-status/issues/199)) ([64d55c8](https://github.com/arnaud-zg/http-response-status/commit/64d55c8b3c0ebf4e76691a9c0fc17fd602058f8b))
+
 ### [1.0.23](https://github.com/arnaud-zg/http-response-status/compare/v1.0.22...v1.0.23) (2021-04-06)
 
 
