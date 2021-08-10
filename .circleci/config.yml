@@ -79,9 +79,9 @@ workflows:
           requires:
             - build
             - test
-          filters:
-            tags:
-              only: /^v.*/
+          # filters:
+          #   tags:
+          #     only: /^v.*/
 
       - deploy:
           context:
