@@ -61,14 +61,24 @@ jobs:
 workflows:
   build-and-test:
     jobs:
-      - lint
+      - lint:
+          filters:
+            branches:
+              ignore: /develop|release/
+
       - build:
           requires:
             - lint
+          filters:
+            tags:
+              only: /^v.*/
 
       - test:
           requires:
             - lint
+          filters:
+            tags:
+              only: /^v.*/
 
       - hold-deploy:
           type: approval
