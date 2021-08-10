@@ -67,21 +67,25 @@ workflows:
               ignore: /develop|release/
 
       - build:
-          requires:
-            - lint
+          filters:
+            tags:
+              only: /^v.*/
 
       - test:
-          requires:
-            - lint
+          filters:
+            tags:
+              only: /^v.*/
 
       - hold-deploy:
           type: approval
           requires:
             - build
             - test
-          # filters:
-          #   tags:
-          #     only: /^v.*/
+          filters:
+            tags:
+              only: /^v.*/
+            branches:
+              ignore: /.*/
 
       - deploy:
           context:
