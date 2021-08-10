@@ -67,11 +67,15 @@ workflows:
               ignore: /develop|release/
 
       - build:
+          requires:
+            - lint
           filters:
             tags:
               only: /^v.*/
 
       - test:
+          requires:
+            - lint
           filters:
             tags:
               only: /^v.*/
