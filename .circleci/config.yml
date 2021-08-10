@@ -1,0 +1,88 @@
+version: 2.1
+
+orbs:
+  node: circleci/node@4.1
+
+executors:
+  node:
+    working_directory: ~/repo
+    docker:
+      - image: cimg/node:14.16.1
+
+commands:
+  prepare:
+    steps:
+      - checkout
+      - node/install-packages:
+          app-dir: '~/repo'
+          pkg-manager: yarn
+
+jobs:
+  lint:
+    executor: node
+    steps:
+      - prepare
+
+  build:
+    executor: node
+    steps:
+      - prepare
+      - run:
+          name: Build package
+          command: yarn run build
+      - persist_to_workspace:
+          root: ~/repo
+          paths: .
+
+  test:
+    executor: node
+    steps:
+      - prepare
+      - run:
+          name: Test package
+          command: yarn run test:coverage:report
+
+  deploy:
+    executor: node
+    steps:
+      - prepare
+      - attach_workspace:
+          at: ~/repo
+      - run:
+          name: Set registry URL
+          command: yarn config set registry https://registry.npmjs.org/
+      - run:
+          name: Authenticate with registry
+          command: echo "//registry.npmjs.org/:_authToken=${NPM_TOKEN}" > ~/repo/.npmrc
+      - run:
+          name: Publish package
+          command: yarn publish
+
+workflows:
+  build-and-test:
+    jobs:
+      - lint
+      - build:
+          requires:
+            - lint
+
+      - test:
+          requires:
+            - lint
+
+      - hold-deploy:
+          type: approval
+          requires:
+            - build
+            - test
+          filters:
+            tags:
+              only: /^v.*/
+            branches:
+              ignore: /.*/
+
+      - deploy:
+          context:
+            - package
+          requires:
+            - hold-deploy
