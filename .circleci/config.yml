@@ -14,16 +14,14 @@ commands:
     steps:
       - checkout
       - node/install-packages:
-          pkg-manager: yarn 
+          app-dir: '~/repo'
+          pkg-manager: yarn
 
 jobs:
   lint:
     executor: node
     steps:
       - prepare
-      - run:
-          name: Lint package
-          command: yarn run lint
 
   build:
     executor: node
@@ -61,10 +59,9 @@ jobs:
           command: yarn publish
 
 workflows:
-  build-and-test: 
+  build-and-test:
     jobs:
       - lint
-
       - build:
           requires:
             - lint
@@ -85,5 +82,7 @@ workflows:
               ignore: /.*/
 
       - deploy:
-            requires:
+          context:
+            - package
+          requires:
             - hold-deploy
