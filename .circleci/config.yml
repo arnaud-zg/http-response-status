@@ -61,7 +61,7 @@ jobs:
 workflows:
   build-and-test:
     jobs:
-      - lint
+      - lint:
           filters:
             branches:
               ignore: /develop|release/
