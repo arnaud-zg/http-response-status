@@ -2,8 +2,7 @@
 
 HTTP Status Map
 
-
-[![Build Status](https://travis-ci.org/arnaud-zg/http-response-status.svg?branch=master)](https://travis-ci.org/arnaud-zg/http-response-status)
+[![Build Status](https://github.com/arnaud-zg/http-response-status/actions/workflows/ci.yml/badge.svg?branch=develop)](https://github.com/arnaud-zg/http-response-status/actions/workflows/ci.yml)
 [![codecov](https://codecov.io/gh/arnaud-zg/http-response-status/branch/master/graph/badge.svg)](https://codecov.io/gh/arnaud-zg/http-response-status)
 
 ## Getting Started
