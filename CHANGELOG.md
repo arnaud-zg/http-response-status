@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.0.30](https://github.com/arnaud-zg/http-response-status/compare/v1.0.29...v1.0.30) (2022-06-02)
+
+
+### 🚇 Continuous Integration
+
+* move to github actions ([#276](https://github.com/arnaud-zg/http-response-status/issues/276)) ([64ecd64](https://github.com/arnaud-zg/http-response-status/commit/64ecd646f6dff36f1e191399c04765eec0424837))
+
+
+### 🔧 Chore
+
+* **deps:** update dependency standard-version to v9.3.2 ([813887f](https://github.com/arnaud-zg/http-response-status/commit/813887fb153674ddd4b1cbc74ad381f3cbe436db))
+* update README.md ([#277](https://github.com/arnaud-zg/http-response-status/issues/277)) ([d1105ff](https://github.com/arnaud-zg/http-response-status/commit/d1105ff1a0655ae07fc0fca401472a3481a442a3))
+
 ### [1.0.29](https://github.com/arnaud-zg/http-response-status/compare/v1.0.28...v1.0.29) (2022-06-02)
 
 
