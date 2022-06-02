@@ -49,7 +49,7 @@
   "devDependencies": {
     "@types/jest": "27.5.2",
     "codecov": "3.8.3",
-    "husky": "7.0.4",
+    "husky": "8.0.1",
     "standard-version": "9.5.0",
     "tsdx": "0.14.1",
     "tslib": "2.4.0",
