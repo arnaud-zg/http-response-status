@@ -2,6 +2,53 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.0.27](https://github.com/arnaud-zg/http-response-status/compare/v1.0.26...v1.0.27) (2022-06-02)
+
+
+### 📦 Build System
+
+* **deps:** bump ajv from 6.10.2 to 6.12.6 ([#266](https://github.com/arnaud-zg/http-response-status/issues/266)) ([1b74394](https://github.com/arnaud-zg/http-response-status/commit/1b7439487da7688b8dec97552a1213ad0ab95248))
+* **deps:** bump ansi-regex from 3.0.0 to 3.0.1 ([#264](https://github.com/arnaud-zg/http-response-status/issues/264)) ([61d4143](https://github.com/arnaud-zg/http-response-status/commit/61d41439f1bba124e3c84297094e4e713b75a3e6))
+* **deps:** bump node-fetch from 2.6.1 to 2.6.7 ([#267](https://github.com/arnaud-zg/http-response-status/issues/267)) ([993d3e2](https://github.com/arnaud-zg/http-response-status/commit/993d3e2aadc72a85e84005d854c9a85349467072))
+* **deps:** bump shelljs from 0.8.3 to 0.8.5 ([#259](https://github.com/arnaud-zg/http-response-status/issues/259)) ([9fe8e7c](https://github.com/arnaud-zg/http-response-status/commit/9fe8e7c1d11357d15982cc2b0847d5ceef8d4318))
+* **deps:** bump tmpl from 1.0.4 to 1.0.5 ([#243](https://github.com/arnaud-zg/http-response-status/issues/243)) ([cd4ebfc](https://github.com/arnaud-zg/http-response-status/commit/cd4ebfcc931c1a260b072c341707d33cf61ad6a6))
+* **deps:** bump trim-off-newlines from 1.0.1 to 1.0.3 ([#265](https://github.com/arnaud-zg/http-response-status/issues/265)) ([3b91689](https://github.com/arnaud-zg/http-response-status/commit/3b916895c133d3b8cc4e557c3c0d6a1b61a98eee))
+
+
+### 🔧 Chore
+
+* **deps:** update dependency @types/jest to v27.0.1 ([#234](https://github.com/arnaud-zg/http-response-status/issues/234)) ([2c0f769](https://github.com/arnaud-zg/http-response-status/commit/2c0f7694158e60449ed949fdf374545df3b2ffc8))
+* **deps:** update dependency @types/jest to v27.0.2 ([#242](https://github.com/arnaud-zg/http-response-status/issues/242)) ([9ae4259](https://github.com/arnaud-zg/http-response-status/commit/9ae425987a42f2906746cabeecd4d16625d72976))
+* **deps:** update dependency @types/jest to v27.0.3 ([#255](https://github.com/arnaud-zg/http-response-status/issues/255)) ([d6e9cad](https://github.com/arnaud-zg/http-response-status/commit/d6e9caddd649474521ee53a10baa1ab382e2f7d6))
+* **deps:** update dependency @types/jest to v27.5.1 ([#257](https://github.com/arnaud-zg/http-response-status/issues/257)) ([2e267c6](https://github.com/arnaud-zg/http-response-status/commit/2e267c62ee20c33c56b636e5ef758e6e357aa27a))
+* **deps:** update dependency @types/jest to v27.5.2 ([#268](https://github.com/arnaud-zg/http-response-status/issues/268)) ([d352846](https://github.com/arnaud-zg/http-response-status/commit/d35284680bc5582fb9f59b536c467636152c2024))
+* **deps:** update dependency husky to v7.0.2 ([#236](https://github.com/arnaud-zg/http-response-status/issues/236)) ([7ddc45b](https://github.com/arnaud-zg/http-response-status/commit/7ddc45bac2b25de95cb179ef33e22467f855598e))
+* **deps:** update dependency husky to v7.0.4 ([#252](https://github.com/arnaud-zg/http-response-status/issues/252)) ([24591c4](https://github.com/arnaud-zg/http-response-status/commit/24591c45da6a154347b0a1ab2d0d6fa5c2ecd808))
+* **deps:** update dependency husky to v8 ([#263](https://github.com/arnaud-zg/http-response-status/issues/263)) ([8f287a0](https://github.com/arnaud-zg/http-response-status/commit/8f287a05ccd8e794a3f51a873880a82bf1968e38))
+* **deps:** update dependency standard-version to v9.3.2 ([#250](https://github.com/arnaud-zg/http-response-status/issues/250)) ([dbb8c4c](https://github.com/arnaud-zg/http-response-status/commit/dbb8c4caabb5b4c71ade50ab3ec5dac0c12f42f7))
+* **deps:** update dependency standard-version to v9.5.0 ([#262](https://github.com/arnaud-zg/http-response-status/issues/262)) ([b304c56](https://github.com/arnaud-zg/http-response-status/commit/b304c56227b359d9c16b1acb0d827c59b0ddb82a))
+* **deps:** update dependency tslib to v2.3.1 ([#233](https://github.com/arnaud-zg/http-response-status/issues/233)) ([b739b59](https://github.com/arnaud-zg/http-response-status/commit/b739b59f604152bb334cda2c9b15ec042ba68975))
+* **deps:** update dependency tslib to v2.4.0 ([#260](https://github.com/arnaud-zg/http-response-status/issues/260)) ([47c3919](https://github.com/arnaud-zg/http-response-status/commit/47c3919ed31ebfd6014bb1b9ef242310d9a666d2))
+* **deps:** update dependency typescript to v4.4.2 ([#238](https://github.com/arnaud-zg/http-response-status/issues/238)) ([066ca62](https://github.com/arnaud-zg/http-response-status/commit/066ca62cd8457d04f1188d667770fcecc861e286))
+* **deps:** update dependency typescript to v4.4.3 ([#241](https://github.com/arnaud-zg/http-response-status/issues/241)) ([ea67978](https://github.com/arnaud-zg/http-response-status/commit/ea67978bf57e9e190cccd98f3b136d1302387bbf))
+* **deps:** update dependency typescript to v4.4.4 ([#249](https://github.com/arnaud-zg/http-response-status/issues/249)) ([04dae71](https://github.com/arnaud-zg/http-response-status/commit/04dae717cd86795fc9bd55ce6f0b2f75cde87c2b))
+* **deps:** update dependency typescript to v4.7.2 ([#254](https://github.com/arnaud-zg/http-response-status/issues/254)) ([4639ee5](https://github.com/arnaud-zg/http-response-status/commit/4639ee528b68814bb094252704c355f0a611739a))
+* **deps:** update node.js to v14.17.4 ([#229](https://github.com/arnaud-zg/http-response-status/issues/229)) ([ea2d931](https://github.com/arnaud-zg/http-response-status/commit/ea2d93167c1c10be64a3e7ce6b58d554ae346eda))
+* **deps:** update node.js to v14.17.5 ([#231](https://github.com/arnaud-zg/http-response-status/issues/231)) ([fe67942](https://github.com/arnaud-zg/http-response-status/commit/fe6794220cd1d9d6a162d960744173cead7d4f8d))
+* **deps:** update node.js to v14.17.6 ([#240](https://github.com/arnaud-zg/http-response-status/issues/240)) ([bb26133](https://github.com/arnaud-zg/http-response-status/commit/bb261336b0810b6f04d90561dafe5ed2343abed6))
+* **deps:** update node.js to v14.18.0 ([#245](https://github.com/arnaud-zg/http-response-status/issues/245)) ([57f7623](https://github.com/arnaud-zg/http-response-status/commit/57f76235ae68ad8eecdfa3138860588510dce3db))
+* **deps:** update node.js to v14.18.1 ([#247](https://github.com/arnaud-zg/http-response-status/issues/247)) ([12e9840](https://github.com/arnaud-zg/http-response-status/commit/12e98405ca7280e5b85f904acc204440b00cacb0))
+* **deps:** update node.js to v14.18.2 ([#256](https://github.com/arnaud-zg/http-response-status/issues/256)) ([9c960ef](https://github.com/arnaud-zg/http-response-status/commit/9c960ef539b2e148a77c8b0b8a007c5007e2fcdb))
+* **deps:** update node.js to v14.19.2 ([#258](https://github.com/arnaud-zg/http-response-status/issues/258)) ([4cb1c8d](https://github.com/arnaud-zg/http-response-status/commit/4cb1c8d2d99964b82a85bab0e448978801de2a84))
+* **deps:** update node.js to v14.19.3 ([#269](https://github.com/arnaud-zg/http-response-status/issues/269)) ([9e8745a](https://github.com/arnaud-zg/http-response-status/commit/9e8745a8e7bcf0e63a7053a721d55d5fd5c79413))
+* **deps:** update node.js to v16 ([#230](https://github.com/arnaud-zg/http-response-status/issues/230)) ([1235aad](https://github.com/arnaud-zg/http-response-status/commit/1235aad6791ea33068f6218ba74f825f293b7862))
+* **deps:** update node.js to v16 ([#253](https://github.com/arnaud-zg/http-response-status/issues/253)) ([a0ff61e](https://github.com/arnaud-zg/http-response-status/commit/a0ff61ea284f3260bb7796ad788eab20d115539b))
+* **deps:** update node.js to v16.10.0 ([#244](https://github.com/arnaud-zg/http-response-status/issues/244)) ([de2512c](https://github.com/arnaud-zg/http-response-status/commit/de2512ca831b8de1b3cc4c7a5d6646f253233b23))
+* **deps:** update node.js to v16.11.0 ([#246](https://github.com/arnaud-zg/http-response-status/issues/246)) ([fc432b0](https://github.com/arnaud-zg/http-response-status/commit/fc432b0b5935eec54c44ef9a5109013a214ae5b3))
+* **deps:** update node.js to v16.7.0 ([#235](https://github.com/arnaud-zg/http-response-status/issues/235)) ([83ea4ef](https://github.com/arnaud-zg/http-response-status/commit/83ea4efaadcba1a0d0884548123a6b3f3d373060))
+* **deps:** update node.js to v16.8.0 ([#237](https://github.com/arnaud-zg/http-response-status/issues/237)) ([1f1895c](https://github.com/arnaud-zg/http-response-status/commit/1f1895c6035741c1965d060b639d493d7c4868b3))
+* **deps:** update node.js to v18 ([#261](https://github.com/arnaud-zg/http-response-status/issues/261)) ([6ee8d60](https://github.com/arnaud-zg/http-response-status/commit/6ee8d6056c3570493b71e12abe23f60fbab6ed29))
+
 ### [1.0.26](https://github.com/arnaud-zg/http-response-status/compare/v1.0.25...v1.0.26) (2021-08-10)
 
 
