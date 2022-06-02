@@ -31,7 +31,6 @@ ask_confirm_and_release () {
               git pull origin develop
               git rebase release
               git push origin release
-              git push origin develop
               git push origin --follow-tags master
             break;;
           [Nn]* )
