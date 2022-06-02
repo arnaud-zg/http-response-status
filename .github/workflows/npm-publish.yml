@@ -19,7 +19,7 @@ jobs:
       - run: yarn install --frozen-lockfile
       - run: yarn run lint
       - run: yarn run build
-      - run: yarn run test
+      - run: yarn run test:coverage:report
 
   publish-npm:
     needs: [build]
