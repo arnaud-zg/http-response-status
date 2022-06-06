@@ -15,7 +15,59 @@ jobs:
         with:
           release-type: node
           package-name: http-response-status
-
+          changelog-types: >
+            [
+              {
+                "type": "chore",
+                "section": "🔧 Chore",
+                "hidden": true
+              },
+              {
+                "type": "docs",
+                "section": "📖 Documentations",
+                "hidden": true
+              },
+              {
+                "type": "perf",
+                "section": "🛡 Performance Improvement",
+                "hidden": false
+              },
+              {
+                "type": "refactor",
+                "section": "🚧 Refactor",
+                "hidden": false
+              },
+              {
+                "type": "style",
+                "section": "🎨 Style",
+                "hidden": true
+              },
+              {
+                "type": "build",
+                "section": "📦 Build System",
+                "hidden": true
+              },
+              {
+                "type": "ci",
+                "section": "🚇 Continuous Integration",
+                "hidden": true
+              },
+              {
+                "type": "feat",
+                "section": "🖋 Features",
+                "hidden": false
+              },
+              {
+                "type": "fix",
+                "section": "🐛 Bug Fixes",
+                "hidden": false
+              },
+              {
+                "type": "test",
+                "section": "⚠️ Tests",
+                "hidden": false
+              }
+            ]
   publish:
     needs: [release-please]
     runs-on: ubuntu-latest
