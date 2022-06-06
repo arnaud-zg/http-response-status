@@ -2,8 +2,9 @@
 
 HTTP Status Map
 
-[![Build Status](https://github.com/arnaud-zg/http-response-status/actions/workflows/ci.yml/badge.svg?branch=develop)](https://github.com/arnaud-zg/http-response-status/actions/workflows/ci.yml)
 [![codecov](https://codecov.io/gh/arnaud-zg/http-response-status/branch/master/graph/badge.svg)](https://codecov.io/gh/arnaud-zg/http-response-status)
+[![Node.js CI](https://github.com/arnaud-zg/http-response-status/actions/workflows/ci.yml/badge.svg)](https://github.com/arnaud-zg/http-response-status/actions/workflows/ci.yml)
+[![release-please](https://github.com/arnaud-zg/http-response-status/actions/workflows/release-please.yml/badge.svg)](https://github.com/arnaud-zg/http-response-status/actions/workflows/release-please.yml)
 
 ## Getting Started
 
