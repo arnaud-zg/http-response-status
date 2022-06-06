@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.1.0](https://github.com/arnaud-zg/http-response-status/compare/v1.0.30...v1.1.0) (2022-06-06)
+
+
+### Miscellaneous Chores
+
+* release 1.1.0 ([#283](https://github.com/arnaud-zg/http-response-status/issues/283)) ([90961de](https://github.com/arnaud-zg/http-response-status/commit/90961deac5ddcd627c772e4268f0f292be6bdd0c))
+
 ### [1.0.30](https://github.com/arnaud-zg/http-response-status/compare/v1.0.29...v1.0.30) (2022-06-02)
 
 
