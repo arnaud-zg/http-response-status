@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.1.0](https://github.com/arnaud-zg/http-response-status/compare/v1.0.30...v1.1.0) (2022-06-06)
+
+
+### Features
+
+* simplify trigger workflow for Node.js CI ([160f59d](https://github.com/arnaud-zg/http-response-status/commit/160f59d642ac9ca870741e613fef113b6bae9425))
+
 ### [1.0.30](https://github.com/arnaud-zg/http-response-status/compare/v1.0.29...v1.0.30) (2022-06-02)
 
 
