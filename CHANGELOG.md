@@ -2,6 +2,32 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.1.0](https://github.com/arnaud-zg/http-response-status/compare/v1.1.0...v1.1.0) (2022-06-06)
+
+
+### Features
+
+* **http:** add http status ([a10727e](https://github.com/arnaud-zg/http-response-status/commit/a10727e001d93d156768c4a91efde5d910cd4313))
+* **util:** add utils for getting category and name ([#4](https://github.com/arnaud-zg/http-response-status/issues/4)) ([3bc6c3a](https://github.com/arnaud-zg/http-response-status/commit/3bc6c3a0d81891b2d30b365948c38027b047e8ad))
+
+
+### Bug Fixes
+
+* add engines nodes ([2430ca5](https://github.com/arnaud-zg/http-response-status/commit/2430ca52737e3c1d1e28d44f9103e2e2fdec3f31))
+* **constants:** change value of http status client error ([#98](https://github.com/arnaud-zg/http-response-status/issues/98)) ([040cdee](https://github.com/arnaud-zg/http-response-status/commit/040cdeeeb9441912028cc30c63f7b49e65ba03aa))
+* **deps:** remove prettier from dependencies ([f834a4b](https://github.com/arnaud-zg/http-response-status/commit/f834a4bce61dfb51a67535e8aa17a5e2b1164be6))
+* **enum:** name enum with an e prefix ([#43](https://github.com/arnaud-zg/http-response-status/issues/43)) ([04b9e39](https://github.com/arnaud-zg/http-response-status/commit/04b9e394f3f5f51a025124dd32f58487588965c9))
+* **method:** typo on method getHttpStatusCategory ([#41](https://github.com/arnaud-zg/http-response-status/issues/41)) ([ccf7d65](https://github.com/arnaud-zg/http-response-status/commit/ccf7d6513a3297699650007561e39b2e0f4335b6))
+* migrate to tsdx@0.13.x ([6d1cfb5](https://github.com/arnaud-zg/http-response-status/commit/6d1cfb539205074ae59d6a769cb9316bfbadd94e))
+* **project:** add repository url ([#44](https://github.com/arnaud-zg/http-response-status/issues/44)) ([30eced0](https://github.com/arnaud-zg/http-response-status/commit/30eced04e7bc0568d486279ea4f463eb2ab442aa))
+* **project:** update package.json ([#47](https://github.com/arnaud-zg/http-response-status/issues/47)) ([c734879](https://github.com/arnaud-zg/http-response-status/commit/c734879e8c18aacc0cf6ac4fdd51309ecd1a30a6))
+* **script:** add release script ([60f9de1](https://github.com/arnaud-zg/http-response-status/commit/60f9de1f59e3a752d4c8bb96a3c0683ccc34acbc))
+
+
+### Miscellaneous Chores
+
+* release 1.1.0 ([#283](https://github.com/arnaud-zg/http-response-status/issues/283)) ([02be49a](https://github.com/arnaud-zg/http-response-status/commit/02be49a0aa086e98052fc9f6a452c236e2c5160d))
+
 ## [1.1.0](https://github.com/arnaud-zg/http-response-status/compare/v1.0.30...v1.1.0) (2022-06-06)
 
 
