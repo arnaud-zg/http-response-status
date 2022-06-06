@@ -6,9 +6,10 @@ name: Node.js CI
 on:
   push:
     branches:
-      - 'master'
+      - master
   pull_request:
-    types: [review_requested, ready_for_review]
+    branches:
+      - master
 
 jobs:
   build:
