@@ -14,14 +14,14 @@ jobs:
           release-type: node
           package-name: http-response-status
       - uses: actions/checkout@v3
+        if: ${{ steps.release.outputs.release_created }}
       - uses: actions/setup-node@v3
         with:
           node-version: 16
           registry-url: 'https://registry.npmjs.org'
+        if: ${{ steps.release.outputs.release_created }}
       - run: yarn install --frozen-lockfile
-      - run: yarn run lint
-      - run: yarn run build
-      - run: yarn run test:coverage:report
+        if: ${{ steps.release.outputs.release_created }}
       - run: yarn publish
         env:
           NODE_AUTH_TOKEN: ${{secrets.NPM_TOKEN}}
