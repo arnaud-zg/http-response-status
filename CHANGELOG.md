@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.1.2](https://github.com/arnaud-zg/http-response-status/compare/v1.1.1...v1.1.2) (2022-07-20)
+
+
+### 🐛 Bug Fixes
+
+* **deps:** bump terser from 4.3.9 to 4.8.1 ([#309](https://github.com/arnaud-zg/http-response-status/issues/309)) ([7a7a78d](https://github.com/arnaud-zg/http-response-status/commit/7a7a78dd1267ba5fd543ee32b577749dc60a0027))
+
 ## [1.1.1](https://github.com/arnaud-zg/http-response-status/compare/v1.1.0...v1.1.1) (2022-06-24)
 
 
