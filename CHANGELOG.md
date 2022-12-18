@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.1.3](https://github.com/arnaud-zg/http-response-status/compare/v1.1.2...v1.1.3) (2022-12-18)
+
+
+### 🐛 Bug Fixes
+
+* update module path on package.json ([#328](https://github.com/arnaud-zg/http-response-status/issues/328)) ([6aa3094](https://github.com/arnaud-zg/http-response-status/commit/6aa30947f23fb5f96a6771242e872b6a855b236f))
+
 ## [1.1.2](https://github.com/arnaud-zg/http-response-status/compare/v1.1.1...v1.1.2) (2022-07-20)
 
 
